@@ -1,5 +1,5 @@
 {
-    "name": "treeweb/elephant.io",
+    "name": "89snake89/elephant.io",
     "type": "Lib",
     "description": "Send events to socket.io though PHP",
     "keywords": ["Nodejs", "Socket.io", "WebSocket"],
